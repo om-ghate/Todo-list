@@ -1,4 +1,4 @@
-### Todo List App Using React - Next JS
+## Todo List App Using React - Next JS
 
 ## Getting Started
 
